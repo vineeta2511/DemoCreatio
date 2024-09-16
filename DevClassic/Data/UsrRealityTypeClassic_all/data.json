@@ -1,0 +1,84 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3f317512-9323-433f-a84c-1243a462e6f3"
+        },
+        {
+          "SchemaColumnUId": "610abb2a-1710-cbde-69bb-2c151ae72953",
+          "Value": 5624901363.78
+        },
+        {
+          "SchemaColumnUId": "cd8927b1-f6fa-eb26-06ab-c73cacd47f0b",
+          "Value": "Code#1"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7f041def-b018-4cbe-b189-7362fbfeea13"
+        },
+        {
+          "SchemaColumnUId": "610abb2a-1710-cbde-69bb-2c151ae72953",
+          "Value": 685746.89
+        },
+        {
+          "SchemaColumnUId": "cd8927b1-f6fa-eb26-06ab-c73cacd47f0b",
+          "Value": "P-1"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bf7143a4-ca85-43cb-90a7-af38c212b242"
+        },
+        {
+          "SchemaColumnUId": "610abb2a-1710-cbde-69bb-2c151ae72953",
+          "Value": 200005823.46
+        },
+        {
+          "SchemaColumnUId": "cd8927b1-f6fa-eb26-06ab-c73cacd47f0b",
+          "Value": "WING#9"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "db176ac1-cc47-4cd0-82f5-2e5e9590da42"
+        },
+        {
+          "SchemaColumnUId": "610abb2a-1710-cbde-69bb-2c151ae72953",
+          "Value": 68900945.89
+        },
+        {
+          "SchemaColumnUId": "cd8927b1-f6fa-eb26-06ab-c73cacd47f0b",
+          "Value": "Code#2"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ed70617b-5e37-4d4c-88a3-8256d290d3e4"
+        },
+        {
+          "SchemaColumnUId": "610abb2a-1710-cbde-69bb-2c151ae72953",
+          "Value": 5214684686.67
+        },
+        {
+          "SchemaColumnUId": "cd8927b1-f6fa-eb26-06ab-c73cacd47f0b",
+          "Value": "HIG-145"
+        }
+      ]
+    }
+  ]
+}
